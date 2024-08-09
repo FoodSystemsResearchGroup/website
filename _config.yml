@@ -1,0 +1,17 @@
+theme: Minima
+title: Food Systems Research Group
+
+# This goes into the footer:
+author: Marco Springmann
+
+# Define the navigation links
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - projects.md
+  - tools.md
+#  - data.md
+
+minima:
+  skin: dark
