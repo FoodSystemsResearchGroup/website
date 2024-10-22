@@ -35,3 +35,7 @@ We are a multi-disciplinary research group across several institutions. The team
 - **Olivia Auclair** [Email](mailto:o.auclair@ucl.ac.uk) [Profile](https://orcid.org/0000-0002-3506-347X) [LinkedIn](https://www.linkedin.com/in/olivia-auclair-phd-813740147/) <br>
   *Researcher in Health Modelling* <br>
   Environmental Change Institute, University of Oxford, UK
+
+- **Maria Schubring** [Email](mailto:m.schubring@ucl.ac.uk) [LinkedIn](https://www.linkedin.com/in/maria-schubring-5623491b5/) <br>
+  *Researcher in Health Modelling* <br>
+  Institute for Global Health, University College London, UK
