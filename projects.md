@@ -29,3 +29,8 @@ We are an independent research group and do not accept any funding from the food
   - Research project, 2023-2025
   - Marco Springmann, Commissioner
   - Sumati Bajaj, Research Fellow
+
+#### **[ACT4CAP27] (https://act4cap27.eu/about/)**
+  - Research project
+  - Marco Springmann
+  - Maria Schubring
